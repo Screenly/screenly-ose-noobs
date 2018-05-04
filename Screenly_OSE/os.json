@@ -1,0 +1,17 @@
+{
+    "description": "Screenly OSE on Raspbian Stretch",
+    "kernel": "4.4",
+    "name": "Screenly OSE",
+    "password": "raspberry",
+    "release_date": "2018-01-19",
+    "supported_models": [
+        "Pi Model",
+        "Pi 2",
+        "Pi Zero",
+        "Pi Compute Module",
+        "Pi 3"
+    ],
+    "url": "https://www.screenly.io/ose/",
+    "username": "pi",
+    "version": "stretch"
+}
